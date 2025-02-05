@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:34585
+[2025-02-05 12:20:03] info Disposed of connection to running server.
+[2025-02-05 12:20:07] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/pid.txt for a running server...
+[2025-02-05 12:20:07] info Found running server (pid=3163)
+[2025-02-05 12:22:23] info Disposed of connection to running server.
+[2025-02-05 12:22:25] info Disposed of connection to running server.
+[2025-02-05 12:22:25] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/pid.txt for a running server...
+[2025-02-05 12:22:25] info Found running server (pid=3163)
